@@ -1,0 +1,9 @@
+canvas{
+    border: 3px solid wheat;
+    margin: 12px;
+    padding: 21px;
+    box-shadow: 3px 4px 10px sienna;
+}
+#heading{
+    width: 100%;
+}
